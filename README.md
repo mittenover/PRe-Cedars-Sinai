@@ -16,3 +16,12 @@ The Training for corroboration.ipynb notebook is designed to train specific mode
 
 Finally, the ttest.ipynb notebook contains the code I used to perform the t-test as part of the model validation protocol.
 
+## Skills Acquired
+
+- **Machine Learning Programming**: Developed and implemented machine learning algorithms for data analysis.
+- **Large Database Processing**: Gained experience in processing and analyzing large datasets of adverse event reports.
+- **Data Analysis**: Conducted thorough analyses to uncover novel drug-drug interactions.
+- **Model Development**: Built and optimized models for predicting outcomes based on historical data.
+- **Statistical Testing**: Performed t-tests and other statistical analyses to validate model performance.
+- **Hyperparameter Optimization**: Implemented techniques to fine-tune model parameters for better accuracy.
+- **Collaboration and Communication**: Worked closely with a research team and effectively communicated findings.
